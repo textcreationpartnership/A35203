@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie upon the much lamented death of that noble and valiant commander the Right Honourable the Earl of Tiveot, governour of Tangiers, slain by the Moors</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35203</idno>
+            <idno type="STC">Wing C7297</idno>
+            <idno type="STC">ESTC R34848</idno>
+            <idno type="EEBO-CITATION">14872137</idno>
+            <idno type="OCLC">ocm 14872137</idno>
+            <idno type="VID">102780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1567:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie upon the much lamented death of that noble and valiant commander the Right Honourable the Earl of Tiveot, governour of Tangiers, slain by the Moors</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Palmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Teviot, Andrew Rutherford, --  Earl of, d. 1664 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:102780:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>AN ELEGIE Upon the much lamented Death of that Noble, and Valiant Commander; the Right honourable the Earl of TIVEOT, <hi>Governour of</hi> Tangiers. <hi>Slain by the</hi> Moors.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>An TIVEOT, <hi>Britain</hi>'s glorious victime, dye,</l>
+               <l>And no <hi>Vein</hi> bleed with a kind ſympathie?</l>
+               <l>Shall one preſumptuous <note n="*" place="margin">An Elegie with Pictures.</note>
+                  <hi>Ballad-ſcratching</hi> Pen</l>
+               <l>
+                  <hi>Fame</hi> the worſt Bard, to <hi>ſhame</hi> the beſt of men?</l>
+               <l>Let indignation once a Muſe create;</l>
+               <l>A rage, may mourn, if not revenge his fate:</l>
+               <l>Whoſe active ſoul has not deſerv'd to have</l>
+               <l>A double <hi>ſilence</hi> of his Name, and Grave.</l>
+            </lg>
+            <lg>
+               <l>Did the ſtupendious news, like lightning, blaſt</l>
+               <l>Our Wits, from <hi>Trances</hi> to break forth at laſt?</l>
+               <l>Never did <hi>Eccho</hi> ſtrike ſo many dumb</l>
+               <l>Since that, firſt <hi>howl'd</hi> out the Kings Martyrdome!</l>
+            </lg>
+            <lg>
+               <l>Thou <hi>Africk</hi> Monſter, whoſe unbridled ſhame</l>
+               <l>In ſcorn has borrowed our grand <note n="⋆" place="margin">Gay<g ref="char:EOLhyphen"/>land <hi>calls himſelf</hi> Cromwel.</note> Rebell's Name;</l>
+               <l>Juſt heaven thy ſanguine humour ſatiate;</l>
+               <l>O mayſt thou with his Name adopt his Fate:</l>
+               <l>How canſt thou offer, (knowing where he lies)</l>
+               <l>To his <hi>Triangular</hi> ſhrine a ſacrifice?</l>
+               <l>The bloud, fleſh, bones, ſow'd in that diſmal place</l>
+               <l>In time, ſhall bring forth a <hi>Cadmean</hi> race</l>
+               <l>Of <hi>Engliſh</hi> Gyants, whoſe high gallantrie</l>
+               <l>
+                  <hi>Gayland</hi> ſhall combat, not the gods, but thee.</l>
+               <l>'Tis not thy <hi>Spirit,</hi> but thy <hi>Spite,</hi> w' abhorre:</l>
+               <l>Villain, thou doſt not fight, but maſſacre.</l>
+            </lg>
+            <lg>
+               <l>Ye cruel Serpents, whoſe low cowardiſe</l>
+               <l>Lurks in the woods and graſs, but dares not hiſs</l>
+               <l>'Gainſt a juſt foe; ſave when your Treachery can</l>
+               <l>Oppoſe a thouſand to each ſingle man!</l>
+               <l>So Butchers conquert feeble lambs, and thus</l>
+               <l>Our <hi>Cromwel</hi> play'd the <hi>Cannibal</hi> with us.</l>
+               <l>No <hi>Dodonaean</hi> grove? no Vocal tree</l>
+               <l>T' <hi>Alarme</hi> this miſcreant, lawleſs enemie?</l>
+               <l>Hence-forth may every Tree, on hills or plains,</l>
+               <l>Make gallowſes for Rebel. <hi>Africans:</hi>
+               </l>
+               <l>May Lyons, Panthers, and all natures Evils</l>
+               <l>Joyn in Battalio to deſtry theſe Devils.</l>
+               <l>The Combat would appear more equal, when</l>
+               <l>Beaſts fight with beaſts, not beaſts with civil men.</l>
+               <l>No blade of graſs grow near that fatal Wood,</l>
+               <l>'Till it be dung'd with <hi>Mauritanian</hi> blood.</l>
+               <l>But let that ſap, fell from the <hi>Britiſh</hi> oaks</l>
+               <l>Aſſiſt next fight with ſympathetick ſtroaks;</l>
+               <l>Or riſe in fiery Meteors, to annoy</l>
+               <l>Theſe Lyons whelps, both beaſt and den deſtroy.</l>
+            </lg>
+            <lg>
+               <l>Vain Execrations, now brave <hi>Tiveot</hi>'s loſt!</l>
+               <l>Not to be ranſom'd by all Nature's coſt:</l>
+               <l>But <hi>Tiviot</hi> ſhall act ſtill, his injur'd Ghoſt</l>
+               <l>Shall Van and rear, and flank proud <hi>Gayland</hi>'s Hoſt:</l>
+               <l>His ſpirits, (though their ſoul belodg'd in bliſs)</l>
+               <l>Shall, by a happy <hi>Metempſychoſis,</hi>
+               </l>
+               <l>Transfuſe themſelves into each Souldier's breaſt,</l>
+               <l>And 'gainſt the <hi>Moors</hi> in every heart conteſt.</l>
+               <l>
+                  <hi>Tangiers</hi> her Confines ſhall extend, as far</l>
+               <l>As <hi>Gayland</hi> dares appear, in peace, or war.</l>
+               <l>If any Region ly without the world,</l>
+               <l>(As ſome diſpute) he ſhall be thither hurld.</l>
+            </lg>
+            <lg>
+               <l>The Royal Mold, yet <hi>under-deck,</hi> ſhall riſe</l>
+               <l>Now <hi>Tiveot</hi>'s Monument, once his Enterprize.</l>
+               <l>Loud Cannon from the Forts ſhall iſſue ſhot</l>
+               <l>Doubly inſpir'd with flames, and <hi>Tiveot.</hi>
+               </l>
+               <l>
+                  <hi>Dunkirk</hi> his nearer glory ſhall advance,</l>
+               <l>Whoſe ſtrength drew out the very bloud of <hi>France.</hi>
+               </l>
+               <l>[By <hi>him</hi> confirm'd againſt her proudeſt force;</l>
+               <l>Was only equal to her conquering purſe.]</l>
+               <l>Let's not the loſs of that, but <hi>Tiveot</hi> weep;</l>
+               <l>Princes know beſt, both what to gain, and keep:</l>
+               <l>
+                  <hi>Dunkirk</hi> was à fair bride, but apt to jar;</l>
+               <l>Better divorce her, then eſpouſe a War:</l>
+               <l>But whether ſhe belong to <hi>France,</hi> or <hi>Spain,</hi>
+               </l>
+               <l>Or by new Policie return again;</l>
+               <l>
+                  <hi>Tiveot</hi> thy Name ſhall there in garriſon reſt,</l>
+               <l>Though not her Governour, yet her glorious gueſt.</l>
+            </lg>
+            <lg>
+               <l>No Satyrs more the <hi>Scottiſh</hi> borders tread,</l>
+               <l>Nor make a wanton <hi>Helicon</hi> of <hi>Tweed:</hi>
+               </l>
+               <l>No Bard, inveigh againſt that Northern clime,</l>
+               <l>Unleſs you bring <hi>Cleveland</hi>'s wit, with his rhyme.</l>
+               <l>That very guilt the Royal partie ſcourg'd,</l>
+               <l>Was after by the bloud of Royaliſts purg'd.</l>
+               <l>If there remains yet any national ſpot,</l>
+               <l>'Tis now wip'd off by <hi>Scotland</hi>'s <hi>Tiveot.</hi>
+               </l>
+               <l>Why ſhould that ſoil, gave us a Race of Kings,</l>
+               <l>Be ſcorn'd by fools, as barren of good things.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>England,</hi> and <hi>Scotland,</hi> both to <hi>Tangiers</hi> flie,</l>
+               <l>Let not your <hi>Tiveot</hi> unrevenged die;</l>
+               <l>Love whet your anger, and this whet your ſwords;</l>
+               <l>While both are quickned by perſuaſive words:</l>
+               <l>Firſt take up <hi>Tiveot</hi>'s ſpirit, then his bones;</l>
+               <l>They'll prove as fruitfull as <hi>Deucalion</hi>'s ſtones.</l>
+               <l>Now fight, now plant, and conquerours remain,</l>
+               <l>'Till <hi>Africa</hi> be Chriſtian once again:</l>
+               <l>That quadrant-Region never will be good,</l>
+               <l>'Till manur'd with this Renegado's bloud.</l>
+               <l>No wonder <hi>Gayland-Cromwel</hi> do's ſurvive,</l>
+               <l>Fate will not let a <hi>Cromwel</hi> hang alive.</l>
+            </lg>
+            <byline>By <hi>JO. CROUCH</hi> Gent.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London.</hi> Printed for <hi>Tho. Palmer,</hi> at the Crown in <hi>Weſtminster</hi>-Hall. 1664. <hi>50.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
